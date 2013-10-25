@@ -5,5 +5,5 @@
 ###OUR TEAM
 
 * Daniel
-* Naveen
+* Naveen Mohan
 * Arun
