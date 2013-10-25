@@ -6,4 +6,4 @@
 
 * Daniel Alan Miller
 * Naveen
-* Arun
+* Arun Mehta
