@@ -4,6 +4,6 @@
 
 ###OUR TEAM
 
-* Daniel
+* Daniel Alan Miller
 * Naveen
 * Arun
