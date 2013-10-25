@@ -5,5 +5,5 @@
 ###OUR TEAM
 
 * Daniel Alan Miller
-* Naveen Mohan Jaiswal
+* Naveen Mohan
 * Arun Mehta
